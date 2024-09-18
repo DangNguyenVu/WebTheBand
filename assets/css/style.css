@@ -1,0 +1,34 @@
+/*Reset CSS  */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*
+1. Từ ngoài vào trong
+2. Từ trên xuống dưới 
+3. Tổng quan đến chi tiết
+ */
+
+ /* 
+ 
+ */
+#main {
+
+}
+
+#header {
+
+}
+
+#slider {
+
+}
+
+#content {
+
+}
+
+#footer {
+
+}
